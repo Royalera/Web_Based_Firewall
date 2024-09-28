@@ -1,0 +1,16 @@
+{
+    "name": "firewall-node",
+    "version": "1.0.0",
+    "description": "Simple firewall proxy in Node.js",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "http-proxy": "^1.18.1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
